@@ -1,0 +1,22 @@
+{
+    "logs": {
+        "Agosto": [
+            {
+                "date": "15/08/2026",
+                "time_sec": 2853
+            },
+            {
+                "date": "15/08/2026",
+                "time_sec": 1566
+            },
+            {
+                "date": "15/08/2026",
+                "time_sec": 3045
+            }
+        ],
+        "Setembro": [],
+        "Outubro": [],
+        "Novembro": [],
+        "Dezembro": []
+    }
+}
